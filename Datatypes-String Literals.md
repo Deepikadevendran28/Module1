@@ -10,6 +10,19 @@ To write a Python program to read a string from the user and then print it.
 
 ## 🧾 Program
 
+
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
+
+
 ## Output
 
+
+<img width="944" height="143" alt="image" src="https://github.com/user-attachments/assets/18b6a94e-ef26-49cc-bfe9-409ac8be9ccd" />
+
+
 ## Result
+
+
+Program to read a string from user and then print it has been executed successfuly.
+
