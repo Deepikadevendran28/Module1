@@ -27,3 +27,7 @@ else:
 <img width="467" height="373" alt="image" src="https://github.com/user-attachments/assets/ba069346-0e80-4cf5-a73c-f625282fff50" />
 
 ## Result
+
+
+Program to check whether the given number is even or odd using if else statements has been executed successfully.
+
